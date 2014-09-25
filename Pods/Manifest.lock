@@ -1,0 +1,10 @@
+PODS:
+  - SMCalloutView (2.0.2)
+
+DEPENDENCIES:
+  - SMCalloutView (~> 2.0)
+
+SPEC CHECKSUMS:
+  SMCalloutView: 208ac4d6c299353603a9d4ab89b442ebe03026c5
+
+COCOAPODS: 0.33.1
